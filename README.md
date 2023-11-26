@@ -7,3 +7,5 @@
 ![py](https://github.com/JustinEchols/JustinEchols/assets/41530080/da4b5d34-adc7-4a24-93a7-f0f2ffe734be)
 ![opengl](https://github.com/JustinEchols/JustinEchols/assets/41530080/eef7d4fa-fd80-46de-9695-675ea06a7c17)
 ![git](https://github.com/JustinEchols/JustinEchols/assets/41530080/43a46662-7a9c-431d-bbcf-2ea9be376051)
+![vim](https://github.com/JustinEchols/JustinEchols/assets/41530080/757f7728-14fb-4727-b8a2-623edb483426)
+![latex](https://github.com/JustinEchols/JustinEchols/assets/41530080/fcc82d91-0aef-4ff3-8f22-72305a20f458)
