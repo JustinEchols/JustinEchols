@@ -7,3 +7,9 @@
 ![py](https://github.com/JustinEchols/JustinEchols/assets/41530080/da4b5d34-adc7-4a24-93a7-f0f2ffe734be)
 ![opengl](https://github.com/JustinEchols/JustinEchols/assets/41530080/eef7d4fa-fd80-46de-9695-675ea06a7c17)
 ![git](https://github.com/JustinEchols/JustinEchols/assets/41530080/43a46662-7a9c-431d-bbcf-2ea9be376051)
+
+## Links
+![linked_in](https://www.linkedin.com/in/justin-echols/)
+![youtube_channel](https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg)
+
+
