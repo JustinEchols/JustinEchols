@@ -9,7 +9,8 @@
 ![git](https://github.com/JustinEchols/JustinEchols/assets/41530080/43a46662-7a9c-431d-bbcf-2ea9be376051)
 
 ## Links
-![linked_in](https://www.linkedin.com/in/justin-echols/)
-![youtube_channel](https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg)
+![linkedin](https://www.linkedin.com/in/justin-echols/)
+
+![youtube](https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg)
 
 
