@@ -10,6 +10,7 @@
 
 ## Links
 ![linkedin](https://www.linkedin.com/in/justin-echols/)
+
 ![youtube](https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg)
 
 ## Stats
