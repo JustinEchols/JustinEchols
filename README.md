@@ -9,9 +9,9 @@
 ![git](https://github.com/JustinEchols/JustinEchols/assets/41530080/43a46662-7a9c-431d-bbcf-2ea9be376051)
 
 ## Links
-(https://www.linkedin.com/in/justin-echols/)
+https://www.linkedin.com/in/justin-echols/
 
-(https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg)
+https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg
 
 ## Stats
 [![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinEchols)](https://github.com/anuraghazra/github-readme-stats)
