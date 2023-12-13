@@ -10,10 +10,9 @@
 
 ## Links
 ![linkedin](https://www.linkedin.com/in/justin-echols/)
-
-## Stats
 ![youtube](https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg)
 
+## Stats
 [![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinEchols)](https://github.com/anuraghazra/github-readme-stats)
 
 
