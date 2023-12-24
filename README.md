@@ -15,9 +15,9 @@
 - Numerical methods
 
 ## Links
-![LinkedIn]https://www.linkedin.com/in/justin-echols/
+![LinkedIn](https://www.linkedin.com/in/justin-echols/)
 
-![YouTube]https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg
+![YouTube](https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg)
 
 ## Stats
 [![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinEchols)](https://github.com/anuraghazra/github-readme-stats)
