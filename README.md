@@ -8,10 +8,16 @@
 ![opengl](https://github.com/JustinEchols/JustinEchols/assets/41530080/eef7d4fa-fd80-46de-9695-675ea06a7c17)
 ![git](https://github.com/JustinEchols/JustinEchols/assets/41530080/43a46662-7a9c-431d-bbcf-2ea9be376051)
 
-## Links
-https://www.linkedin.com/in/justin-echols/
+## Interests
+- Performant software and high performance computing
+- Computational geometry
+- Computer graphics
+- Numerical methods
 
-https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg
+## Links
+![LinkedIn]https://www.linkedin.com/in/justin-echols/
+
+![YouTube]https://www.youtube.com/channel/UCEmfA87lYdkdjJgcG7njwbg
 
 ## Stats
 [![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinEchols)](https://github.com/anuraghazra/github-readme-stats)
