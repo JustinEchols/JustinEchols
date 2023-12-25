@@ -10,8 +10,8 @@
 
 ## Interests
 - Performant software and high performance computing
-- Computational geometry
 - Computer graphics
+- Computational geometry
 - Numerical methods
 
 ## Links
