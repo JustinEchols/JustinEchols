@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Justin, I'm a
-- Data Analyst at [Kubota Tractor Corp](https://www.kubotausa.com/)
+- Analyst at [Kubota Tractor Corp](https://www.kubotausa.com/)
   
 ## 🛠️ My Tool Box
 ![c](https://github.com/JustinEchols/JustinEchols/assets/41530080/f58cf249-ad3b-476e-b45b-5fd4d0ea4a5e)
