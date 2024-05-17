@@ -11,8 +11,8 @@
 ## Interests
 - Performant software and high performance computing
 - Computer graphics
+- Game engine technology and tools
 - Computational geometry
-- Numerical methods
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/justin-echols/)
