@@ -9,10 +9,9 @@
 ![git](https://github.com/JustinEchols/JustinEchols/assets/41530080/43a46662-7a9c-431d-bbcf-2ea9be376051)
 
 ## Interests
-- Performant software and high performance computing
-- Computer graphics
 - Game engine technology and tools
-- Computational geometry
+- Data oriented programming
+- Computer graphics
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/justin-echols/)
