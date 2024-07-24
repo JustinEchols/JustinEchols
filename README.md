@@ -9,6 +9,7 @@
 ![git](https://github.com/JustinEchols/JustinEchols/assets/41530080/43a46662-7a9c-431d-bbcf-2ea9be376051)
 
 ## Interests
+- Visualization tools
 - Game engine technology and tools
 - Data oriented programming
 - Computer graphics
