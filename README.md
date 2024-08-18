@@ -10,9 +10,9 @@
 
 ## Interests
 - Visualization tools
-- Game engine technology and tools
 - Data oriented programming
 - Computer graphics
+- Game engine technology and tools
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/justin-echols/)
