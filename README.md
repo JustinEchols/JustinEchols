@@ -10,8 +10,8 @@
 
 ## Interests
 - Visualization tools
-- Data oriented programming
 - Computer graphics
+- Data oriented programming
 - Game engine technology and tools
 
 ## Links
