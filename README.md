@@ -12,7 +12,7 @@
 - Visualization tools
 - Computer graphics
 - Data oriented programming
-- Game engine technology and tools
+- Software technology and tools
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/justin-echols/)
